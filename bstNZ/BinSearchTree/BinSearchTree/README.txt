@@ -2,8 +2,8 @@ README
 
 Natnael Zeweldi
 
-Every single function is working no problems on clion. On the
-blue server (Sonoma State University's linux server) using the
-test files I got an Ok on all of the functions except for remove
-had problems removing and re inserting I believe it was. Aside
-from that there was also no warnings (ignoring remove).
+The work was completed using clion and has been united tested on the terminal
+in a private server (ssh) that Sonoma State University offers for students for
+education purposes. Please refer to the cpp file for documentation on the purpose
+of each function. I am also looking to add more functions that I have already
+completed to showcase the capability of the implementation.
